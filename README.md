@@ -26,6 +26,3 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, faça um
 
 Alan Diogo.
 
-## Licença
-
-Este projeto está licenciado sob a Licença [Nome da Licença] - veja o arquivo [LICENSE](LICENSE) para detalhes.
