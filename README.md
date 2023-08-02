@@ -24,7 +24,7 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, faça um
 
 ## Autor
 
-[Alan Diogo]
+Alan Diogo.
 
 ## Licença
 
